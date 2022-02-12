@@ -124,7 +124,7 @@ html
     font-weight: 500;
     position: absolute;
     top: 360px;
-    right: 170px;
+    right: -20px;
     background-color: rgb(211, 194, 205);
     border-radius: 20px;
     border:black solid 2px;
@@ -169,7 +169,7 @@ html
     font-weight: 500;
     position: absolute;
     top: 10px;
-    right: 170px;
+    right: -20px;
     border:black solid 2px;
     background-color: rgb(211, 194, 205);
     border-radius: 20px;
@@ -275,10 +275,6 @@ html
     text-align:center;
 }
 
-
-
-
-
 .otherDataBtn{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border-radius: 5px;
@@ -288,31 +284,6 @@ html
     margin-top: 5px;
     margin-bottom: 4px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 .addPostBtns{
